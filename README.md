@@ -22,4 +22,4 @@ Um app feito com React. Basicamente, é uma calculadora de IMC onde mostra sua c
 <img src = './imgsReadme/img6.png' />
 <img src = './imgsReadme/img7.png' />
 
-## 👉 Teste em: 
+## 👉 Teste em: https://gabrielduete.github.io/calc-IMC-react/
