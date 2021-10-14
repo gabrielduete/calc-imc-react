@@ -13,7 +13,6 @@ Um app feito com React. Basicamente, é uma calculadora de IMC onde mostra sua c
 - [JavaScript](https://www.javascript.com/)
 - [ReactJS](https://reactjs.org/)
 
-
 ## 🧐 Preview  
 <img src = './imgsReadme/img1.png' />
 <img src = './imgsReadme/img2.png' />

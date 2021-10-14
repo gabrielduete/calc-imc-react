@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1e3fb67.chunk.css",
+    "main.js": "/static/js/main.8c851548.chunk.js",
+    "main.js.map": "/static/js/main.8c851548.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.09b39778.js",
+    "runtime-main.js.map": "/static/js/runtime-main.09b39778.js.map",
+    "static/js/2.94e41b63.chunk.js": "/static/js/2.94e41b63.chunk.js",
+    "static/js/2.94e41b63.chunk.js.map": "/static/js/2.94e41b63.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e1e3fb67.chunk.css.map": "/static/css/main.e1e3fb67.chunk.css.map",
+    "static/js/2.94e41b63.chunk.js.LICENSE.txt": "/static/js/2.94e41b63.chunk.js.LICENSE.txt",
+    "static/media/gordo.4db5b432.png": "/static/media/gordo.4db5b432.png",
+    "static/media/gordo1.0da51402.png": "/static/media/gordo1.0da51402.png",
+    "static/media/gordo2.84ac11c1.png": "/static/media/gordo2.84ac11c1.png",
+    "static/media/gordo3.7df5a2f1.png": "/static/media/gordo3.7df5a2f1.png",
+    "static/media/magro.c3d4ed9a.png": "/static/media/magro.c3d4ed9a.png",
+    "static/media/normal.7b073fd9.png": "/static/media/normal.7b073fd9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09b39778.js",
+    "static/js/2.94e41b63.chunk.js",
+    "static/css/main.e1e3fb67.chunk.css",
+    "static/js/main.8c851548.chunk.js"
+  ]
+}

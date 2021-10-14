@@ -10,7 +10,7 @@ import Gordo2 from '../../imgs/gordo2.png'
 
 function Resultado(props){
     
-    let altura = props.altura/100
+    let altura = props.altura / 100
     let imc = (props.peso / (altura * altura))
 
     const resultado = () => {
