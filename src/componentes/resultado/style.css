@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@800&display=swap');
+
+.resultados{
+    display: flex;
+    flex-direction: column;
+
+}
+
+h2{
+    color: white;
+    text-align: center;
+    margin-top: 3%;
+}
+
+hr{
+    margin-top: 5%;
+    border-color: rgba(255, 255, 255, 0.11);
+}
+
+img{
+    height: 40%;
+    width: 30%;
+}
+
+.resultados div{
+    display: flex;
+    justify-content: center;
+    margin-top: 6%;
+}
+
+p{
+    color: rgba(255, 255, 255, 0.733);
+    font-size: 1.1em;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.imc{
+    font-size: 3.5em;
+    text-align: center;
+    color: rgb(30, 4, 44);
+}
